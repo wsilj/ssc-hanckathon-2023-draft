@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dff9f427-1e07-46c3-9a90-b89a29611b2c" name="Changes" comment="change directory structure">
-      <change beforePath="$PROJECT_DIR$" beforeDir="false" afterPath="$PROJECT_DIR$" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,13 +14,13 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
         <option name="localRepository" value="C:\Users\15967\software\work\apache-maven-3.8.8\repo" />
-        <option name="mavenHome" value="$USER_HOME$/work/apache-maven-3.8.8" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../work/apache-maven-3.8.8" />
         <option name="useMavenConfig" value="true" />
         <option name="userSettingsFile" value="C:\Users\15967\software\work\apache-maven-3.8.8\conf\settings.xml" />
       </MavenGeneralSettings>
@@ -46,7 +47,8 @@
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.41494253",
-    "settings.editor.selected.configurable": "File.Encoding",
+    "settings.editor.selected.configurable": "MavenSettings",
+    "spring.configuration.checksum": "9a409745e8f6045938651f1095a657d5",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -112,6 +114,7 @@
       <updated>1690437510747</updated>
       <workItem from="1690437511784" duration="381000" />
       <workItem from="1690438112717" duration="499000" />
+      <workItem from="1690438621206" duration="338000" />
     </task>
     <task id="LOCAL-00001" summary="change directory structure">
       <created>1690437857858</created>
@@ -134,7 +137,14 @@
       <option name="project" value="LOCAL" />
       <updated>1690438493180</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="change directory structure">
+      <created>1690438638543</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1690438638543</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

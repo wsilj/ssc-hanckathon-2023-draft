@@ -8,7 +8,7 @@
     <groupId>com.example.springboot</groupId>
     <artifactId>ssc-hanckathon-2023-draft</artifactId>
     <version>1.0-SNAPSHOT</version>
-    <packaging>jar</packaging>
+    <packaging>war</packaging>
 
     <parent>
         <groupId>org.springframework.boot</groupId>

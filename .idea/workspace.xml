@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dff9f427-1e07-46c3-9a90-b89a29611b2c" name="Changes" comment="change directory structure">
-      <change beforePath="$PROJECT_DIR$" beforeDir="false" afterPath="$PROJECT_DIR$" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-    </list>
+    <list default="true" id="dff9f427-1e07-46c3-9a90-b89a29611b2c" name="Changes" comment="update pom.xml" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -115,7 +112,7 @@
       <workItem from="1690437511784" duration="381000" />
       <workItem from="1690438112717" duration="499000" />
       <workItem from="1690438621206" duration="338000" />
-      <workItem from="1690440313151" duration="935000" />
+      <workItem from="1690440313151" duration="1301000" />
     </task>
     <task id="LOCAL-00001" summary="change directory structure">
       <created>1690437857858</created>
@@ -145,7 +142,21 @@
       <option name="project" value="LOCAL" />
       <updated>1690438638543</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="update pom.xml">
+      <created>1690441857520</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1690441857520</updated>
+    </task>
+    <task id="LOCAL-00006" summary="update pom.xml">
+      <created>1690441908887</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1690441908887</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -164,6 +175,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="change directory structure" />
-    <option name="LAST_COMMIT_MESSAGE" value="change directory structure" />
+    <MESSAGE value="update pom.xml" />
+    <option name="LAST_COMMIT_MESSAGE" value="update pom.xml" />
   </component>
 </project>

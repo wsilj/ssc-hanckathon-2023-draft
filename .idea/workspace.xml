@@ -115,7 +115,7 @@
       <workItem from="1690438112717" duration="499000" />
       <workItem from="1690438621206" duration="338000" />
       <workItem from="1690440313151" duration="1345000" />
-      <workItem from="1690442269967" duration="3702000" />
+      <workItem from="1690442269967" duration="6193000" />
     </task>
     <task id="LOCAL-00001" summary="change directory structure">
       <created>1690437857858</created>
@@ -201,7 +201,14 @@
       <option name="project" value="LOCAL" />
       <updated>1690446071955</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="remove deploy file">
+      <created>1690447941145</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1690447941145</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

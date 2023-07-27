@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1c0d4129-ed2e-4eac-a318-b2fa4e6212e8" name="Changes" comment="init commit" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$USER_HOME$/work/apache-maven-3.8.8" />
+        <option name="userSettingsFile" value="C:\Users\15967\software\work\apache-maven-3.8.8\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2Rq10WzbTIcM9wUQ4Qe31Vg1AvS" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "jdk.selected.JAVA_MODULE": "1.8",
+    "last_opened_file_path": "C:/Users/15967/software/learn/hanckathon/ssc-hanckathon-2023-draft/boot-01-helloworld",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "SDKs",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "MavenSettings",
+    "spring.configuration.checksum": "d2d92b7c513a413e5f8fb3476a90de3d",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Spring Boot.MainApplication">
+    <configuration default="true" type="AZURE_FUNCTION_SUPPORT" factoryName="Run Functions">
+      <option name="appName" />
+      <option name="appServicePlanName" />
+      <option name="appServicePlanResourceGroup" />
+      <option name="appSettingsKey" value="5f61c7b9-678d-44a8-8a6e-aeac3de59c18" />
+      <option name="artifact" />
+      <option name="debugOptions" />
+      <option name="deployment" />
+      <option name="deploymentStagingDirectoryPath" />
+      <option name="funcPath" />
+      <option name="functionHostArguments" />
+      <option name="hostJsonPath" />
+      <option name="insightsName" />
+      <option name="instrumentationKey" />
+      <option name="javaVersion" />
+      <option name="localSettingsJsonPath" />
+      <option name="moduleName" />
+      <option name="os" />
+      <option name="pricingTier" />
+      <option name="providerMap">
+        <map />
+      </option>
+      <option name="region" />
+      <option name="resourceGroup" />
+      <option name="stagingFolder" />
+      <option name="subscription" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.boot.MainApplication" />
+      <module name="boot-01-helloworld" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.boot.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true">
+      <module name="boot-01-helloworld" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.boot.MainApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.boot.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="com.microsoft.intellij.run.configuration.WebAppConfigurationType" factoryName="Azure Web App">
+      <option name="appServicePlanName" value="" />
+      <option name="appServicePlanResourceGroupName" value="" />
+      <option name="appSettingsKey" value="9673118e-5620-4c10-918a-199f8db0581c" />
+      <option name="appSettingsToRemove" />
+      <option name="applicationLogLevel" value="Error" />
+      <option name="artifactIdentifier" />
+      <option name="azureArtifactType" />
+      <option name="creatingAppServicePlan" value="false" />
+      <option name="creatingNew" value="false" />
+      <option name="creatingResGrp" value="false" />
+      <option name="deployToRoot" value="true" />
+      <option name="deployToSlot" value="false" />
+      <option name="enableApplicationLog" value="false" />
+      <option name="enableDetailedErrorMessage" value="false" />
+      <option name="enableFailedRequestTracing" value="false" />
+      <option name="enableWebServerLogging" value="false" />
+      <option name="newSlotConfigurationSource" />
+      <option name="newSlotName" />
+      <option name="openBrowserAfterDeployment" value="true" />
+      <option name="operatingSystem" />
+      <option name="packaging" />
+      <option name="pricing" value="" />
+      <option name="projectBase" value="" />
+      <option name="projectType" value="" />
+      <option name="region" value="" />
+      <option name="resourceGroup" value="" />
+      <option name="slotName" />
+      <option name="slotPanelVisible" value="false" />
+      <option name="subscriptionId" value="" />
+      <option name="targetName" value="" />
+      <option name="targetPath" value="" />
+      <option name="webAppContainer" />
+      <option name="webAppId" value="" />
+      <option name="webAppJavaVersion" />
+      <option name="webAppName" value="" />
+      <option name="webServerLogQuota" value="35" />
+      <option name="webServerRetentionPeriod" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.MainApplication" />
+      <item itemvalue="Spring Boot.MainApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.MainApplication" />
+        <item itemvalue="Application.MainApplication" />
+        <item itemvalue="Spring Boot.MainApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1c0d4129-ed2e-4eac-a318-b2fa4e6212e8" name="Changes" comment="" />
+      <created>1687962578883</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1687962578883</updated>
+      <workItem from="1687962579975" duration="1636000" />
+      <workItem from="1689509366467" duration="2888000" />
+      <workItem from="1689670338220" duration="125000" />
+      <workItem from="1689670484451" duration="776000" />
+      <workItem from="1689732938394" duration="85000" />
+      <workItem from="1689733638561" duration="1998000" />
+      <workItem from="1689744709029" duration="5000" />
+      <workItem from="1690435410321" duration="1106000" />
+      <workItem from="1690437322370" duration="114000" />
+      <workItem from="1690437453006" duration="56000" />
+    </task>
+    <task id="LOCAL-00001" summary="init commit">
+      <created>1690436207143</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1690436207143</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="init commit" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

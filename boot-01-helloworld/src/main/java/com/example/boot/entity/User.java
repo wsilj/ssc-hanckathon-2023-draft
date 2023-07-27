@@ -1,8 +1,5 @@
 package com.example.boot.entity;
 
-/**
- * @author ma-er
- */
 public class User {
 
     private String name;

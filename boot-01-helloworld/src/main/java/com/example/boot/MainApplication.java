@@ -7,7 +7,6 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.ConfigurableApplicationContext;
 
-
 @SpringBootApplication
 public class MainApplication {
 
@@ -21,7 +20,7 @@ public class MainApplication {
         }
 
         System.out.println("=========================================================================");
-        // 3. get components from container
+        // 3.
         Pet tom01 = run.getBean("tom", Pet.class);
         Pet tom02 = run.getBean("tom", Pet.class);
         System.out.println("component is singleton: " + (tom02 == tom01));
@@ -32,7 +31,7 @@ public class MainApplication {
 
         User user01 = run.getBean("user01", User.class);
         Pet tom = run.getBean("tom", Pet.class);
-        System.out.println("User's pet: " + (user01.getPet() == tom));
+        System.out.println("user's pet: " + (user01.getPet() == tom));
 
     }
 

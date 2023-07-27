@@ -1,7 +1,7 @@
 # Docs for the Azure Web Apps Deploy action: https://github.com/Azure/webapps-deploy
 # More GitHub Actions for Azure: https://github.com/Azure/actions
 
-name: Build and deploy JAR app to Azure Web App - ssc-springboot-demo01
+name: Build and deploy JAR app to Azure Web App - ssc-app-service-demo
 
 on:
   push:
@@ -47,7 +47,7 @@ jobs:
         id: deploy-to-webapp
         uses: azure/webapps-deploy@v2
         with:
-          app-name: 'ssc-springboot-demo01'
+          app-name: 'ssc-app-service-demo'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_8BD278943D534403B2F44493B49FE0F9 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_D195392087E743C890A405EA634E866F }}
           package: '*.jar'

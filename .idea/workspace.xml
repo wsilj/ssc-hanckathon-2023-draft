@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dff9f427-1e07-46c3-9a90-b89a29611b2c" name="Changes" comment="remove deploy file" />
+    <list default="true" id="dff9f427-1e07-46c3-9a90-b89a29611b2c" name="Changes" comment="update" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -120,7 +120,7 @@
       <workItem from="1690440313151" duration="1345000" />
       <workItem from="1690442269967" duration="6193000" />
       <workItem from="1690450215995" duration="235000" />
-      <workItem from="1690509450538" duration="3240000" />
+      <workItem from="1690509450538" duration="3585000" />
     </task>
     <task id="LOCAL-00001" summary="change directory structure">
       <created>1690437857858</created>
@@ -269,7 +269,14 @@
       <option name="project" value="LOCAL" />
       <updated>1690513706635</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="update">
+      <created>1690514409890</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1690514409891</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -294,6 +301,7 @@
     <MESSAGE value="added app service template" />
     <MESSAGE value="remove app service template" />
     <MESSAGE value="remove deploy file" />
-    <option name="LAST_COMMIT_MESSAGE" value="remove deploy file" />
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
   </component>
 </project>

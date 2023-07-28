@@ -49,5 +49,5 @@ jobs:
         with:
           app-name: 'ssc-springboot-demo01'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_BB8CD6D125114A6086AECD376CF67009 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_5A4D58CCED3D4F99AFF3582C448B0E91 }}
           package: '*.jar'

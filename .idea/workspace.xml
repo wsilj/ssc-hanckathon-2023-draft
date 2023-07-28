@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dff9f427-1e07-46c3-9a90-b89a29611b2c" name="Changes" comment="remove app service template">
-      <change beforePath="$PROJECT_DIR$/.github/workflows/release_ssc-app-service-demo01.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/app-service/parameters.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/app-service/template.json" beforeDir="false" />
-    </list>
+    <list default="true" id="dff9f427-1e07-46c3-9a90-b89a29611b2c" name="Changes" comment="remove app service template" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -125,7 +120,7 @@
       <workItem from="1690440313151" duration="1345000" />
       <workItem from="1690442269967" duration="6193000" />
       <workItem from="1690450215995" duration="235000" />
-      <workItem from="1690509450538" duration="1148000" />
+      <workItem from="1690509450538" duration="1875000" />
     </task>
     <task id="LOCAL-00001" summary="change directory structure">
       <created>1690437857858</created>
@@ -246,7 +241,14 @@
       <option name="project" value="LOCAL" />
       <updated>1690509745150</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="remove app service template">
+      <created>1690510603632</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1690510603632</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

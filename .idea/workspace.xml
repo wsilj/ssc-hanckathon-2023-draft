@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dff9f427-1e07-46c3-9a90-b89a29611b2c" name="Changes" comment="added template.json and guide.md" />
+    <list default="true" id="dff9f427-1e07-46c3-9a90-b89a29611b2c" name="Changes" comment="update guide.md" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -123,7 +123,7 @@
       <workItem from="1690440313151" duration="1345000" />
       <workItem from="1690442269967" duration="6193000" />
       <workItem from="1690450215995" duration="235000" />
-      <workItem from="1690509450538" duration="7312000" />
+      <workItem from="1690509450538" duration="7646000" />
     </task>
     <task id="LOCAL-00001" summary="change directory structure">
       <created>1690437857858</created>
@@ -321,7 +321,14 @@
       <option name="project" value="LOCAL" />
       <updated>1690522085615</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="update guide.md">
+      <created>1690522218021</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1690522218021</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -349,6 +356,7 @@
     <MESSAGE value="update" />
     <MESSAGE value="update deployment file" />
     <MESSAGE value="added template.json and guide.md" />
-    <option name="LAST_COMMIT_MESSAGE" value="added template.json and guide.md" />
+    <MESSAGE value="update guide.md" />
+    <option name="LAST_COMMIT_MESSAGE" value="update guide.md" />
   </component>
 </project>

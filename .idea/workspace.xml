@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dff9f427-1e07-46c3-9a90-b89a29611b2c" name="Changes" comment="remove app service template">
-      <change beforePath="$PROJECT_DIR$/.github/workflows/release_ssc-springboot-demo01.yml" beforeDir="false" />
-    </list>
+    <list default="true" id="dff9f427-1e07-46c3-9a90-b89a29611b2c" name="Changes" comment="remove deploy file" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -122,7 +120,7 @@
       <workItem from="1690440313151" duration="1345000" />
       <workItem from="1690442269967" duration="6193000" />
       <workItem from="1690450215995" duration="235000" />
-      <workItem from="1690509450538" duration="2805000" />
+      <workItem from="1690509450538" duration="3240000" />
     </task>
     <task id="LOCAL-00001" summary="change directory structure">
       <created>1690437857858</created>
@@ -264,7 +262,14 @@
       <option name="project" value="LOCAL" />
       <updated>1690513540395</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="remove deploy file">
+      <created>1690513706635</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1690513706635</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -286,9 +291,9 @@
     <MESSAGE value="update pom.xml" />
     <MESSAGE value="remove wrong file" />
     <MESSAGE value="update workspace.xml" />
-    <MESSAGE value="remove deploy file" />
     <MESSAGE value="added app service template" />
     <MESSAGE value="remove app service template" />
-    <option name="LAST_COMMIT_MESSAGE" value="remove app service template" />
+    <MESSAGE value="remove deploy file" />
+    <option name="LAST_COMMIT_MESSAGE" value="remove deploy file" />
   </component>
 </project>

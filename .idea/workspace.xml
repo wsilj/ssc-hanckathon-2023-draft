@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dff9f427-1e07-46c3-9a90-b89a29611b2c" name="Changes" comment="remove app service template" />
+    <list default="true" id="dff9f427-1e07-46c3-9a90-b89a29611b2c" name="Changes" comment="remove app service template">
+      <change beforePath="$PROJECT_DIR$/.github/workflows/release_ssc-springboot-demo01.yml" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -120,7 +122,7 @@
       <workItem from="1690440313151" duration="1345000" />
       <workItem from="1690442269967" duration="6193000" />
       <workItem from="1690450215995" duration="235000" />
-      <workItem from="1690509450538" duration="2400000" />
+      <workItem from="1690509450538" duration="2805000" />
     </task>
     <task id="LOCAL-00001" summary="change directory structure">
       <created>1690437857858</created>
@@ -255,7 +257,14 @@
       <option name="project" value="LOCAL" />
       <updated>1690512866770</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="remove app service template">
+      <created>1690513540395</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1690513540395</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

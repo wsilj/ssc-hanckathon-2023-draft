@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dff9f427-1e07-46c3-9a90-b89a29611b2c" name="Changes" comment="update guide.md" />
+    <list default="true" id="dff9f427-1e07-46c3-9a90-b89a29611b2c" name="Changes" comment="reset master branch" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -12,9 +12,6 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="MarkdownSettingsMigration">
-    <option name="stateVersion" value="1" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -31,30 +28,30 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
-    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
-    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
-    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/15967/software/learn/hanckathon/ssc-hanckathon-2023-draft/doc/app-service&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.41494253&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;MavenSettings&quot;,
-    &quot;spring.configuration.checksum&quot;: &quot;9a409745e8f6045938651f1095a657d5&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/15967/software/learn/hanckathon/ssc-hanckathon-2023-draft",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.41494253",
+    "settings.editor.selected.configurable": "MavenSettings",
+    "spring.configuration.checksum": "9a409745e8f6045938651f1095a657d5",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\15967\software\learn\hanckathon\ssc-hanckathon-2023-draft\doc\app-service" />
+      <recent name="C:\Users\15967\software\learn\hanckathon\ssc-hanckathon-2023-draft" />
     </key>
   </component>
   <component name="RunManager">
@@ -121,9 +118,7 @@
       <workItem from="1690438112717" duration="499000" />
       <workItem from="1690438621206" duration="338000" />
       <workItem from="1690440313151" duration="1345000" />
-      <workItem from="1690442269967" duration="6193000" />
-      <workItem from="1690450215995" duration="235000" />
-      <workItem from="1690509450538" duration="7646000" />
+      <workItem from="1690442269967" duration="2350000" />
     </task>
     <task id="LOCAL-00001" summary="change directory structure">
       <created>1690437857858</created>
@@ -202,133 +197,14 @@
       <option name="project" value="LOCAL" />
       <updated>1690445880593</updated>
     </task>
-    <task id="LOCAL-00012" summary="remove deploy file">
-      <created>1690446071955</created>
+    <task id="LOCAL-00012" summary="reset master branch">
+      <created>1690522648628</created>
       <option name="number" value="00012" />
       <option name="presentableId" value="LOCAL-00012" />
       <option name="project" value="LOCAL" />
-      <updated>1690446071955</updated>
+      <updated>1690522648628</updated>
     </task>
-    <task id="LOCAL-00013" summary="remove deploy file">
-      <created>1690447941145</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1690447941145</updated>
-    </task>
-    <task id="LOCAL-00014" summary="added app service template">
-      <created>1690450243728</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1690450243728</updated>
-    </task>
-    <task id="LOCAL-00015" summary="added app service template">
-      <created>1690509476451</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1690509476451</updated>
-    </task>
-    <task id="LOCAL-00016" summary="added app service template">
-      <created>1690509524944</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1690509524944</updated>
-    </task>
-    <task id="LOCAL-00017" summary="remove app service template">
-      <created>1690509745150</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1690509745150</updated>
-    </task>
-    <task id="LOCAL-00018" summary="remove app service template">
-      <created>1690510603632</created>
-      <option name="number" value="00018" />
-      <option name="presentableId" value="LOCAL-00018" />
-      <option name="project" value="LOCAL" />
-      <updated>1690510603632</updated>
-    </task>
-    <task id="LOCAL-00019" summary="remove app service template">
-      <created>1690512866770</created>
-      <option name="number" value="00019" />
-      <option name="presentableId" value="LOCAL-00019" />
-      <option name="project" value="LOCAL" />
-      <updated>1690512866770</updated>
-    </task>
-    <task id="LOCAL-00020" summary="remove app service template">
-      <created>1690513540395</created>
-      <option name="number" value="00020" />
-      <option name="presentableId" value="LOCAL-00020" />
-      <option name="project" value="LOCAL" />
-      <updated>1690513540395</updated>
-    </task>
-    <task id="LOCAL-00021" summary="remove deploy file">
-      <created>1690513706635</created>
-      <option name="number" value="00021" />
-      <option name="presentableId" value="LOCAL-00021" />
-      <option name="project" value="LOCAL" />
-      <updated>1690513706635</updated>
-    </task>
-    <task id="LOCAL-00022" summary="update">
-      <created>1690514409890</created>
-      <option name="number" value="00022" />
-      <option name="presentableId" value="LOCAL-00022" />
-      <option name="project" value="LOCAL" />
-      <updated>1690514409891</updated>
-    </task>
-    <task id="LOCAL-00023" summary="update">
-      <created>1690514672856</created>
-      <option name="number" value="00023" />
-      <option name="presentableId" value="LOCAL-00023" />
-      <option name="project" value="LOCAL" />
-      <updated>1690514672856</updated>
-    </task>
-    <task id="LOCAL-00024" summary="update">
-      <created>1690514974929</created>
-      <option name="number" value="00024" />
-      <option name="presentableId" value="LOCAL-00024" />
-      <option name="project" value="LOCAL" />
-      <updated>1690514974929</updated>
-    </task>
-    <task id="LOCAL-00025" summary="update deployment file">
-      <created>1690520057222</created>
-      <option name="number" value="00025" />
-      <option name="presentableId" value="LOCAL-00025" />
-      <option name="project" value="LOCAL" />
-      <updated>1690520057222</updated>
-    </task>
-    <task id="LOCAL-00026" summary="update deployment file">
-      <created>1690520351251</created>
-      <option name="number" value="00026" />
-      <option name="presentableId" value="LOCAL-00026" />
-      <option name="project" value="LOCAL" />
-      <updated>1690520351251</updated>
-    </task>
-    <task id="LOCAL-00027" summary="added template.json and guide.md">
-      <created>1690521710887</created>
-      <option name="number" value="00027" />
-      <option name="presentableId" value="LOCAL-00027" />
-      <option name="project" value="LOCAL" />
-      <updated>1690521710887</updated>
-    </task>
-    <task id="LOCAL-00028" summary="added template.json and guide.md">
-      <created>1690522085615</created>
-      <option name="number" value="00028" />
-      <option name="presentableId" value="LOCAL-00028" />
-      <option name="project" value="LOCAL" />
-      <updated>1690522085615</updated>
-    </task>
-    <task id="LOCAL-00029" summary="update guide.md">
-      <created>1690522218021</created>
-      <option name="number" value="00029" />
-      <option name="presentableId" value="LOCAL-00029" />
-      <option name="project" value="LOCAL" />
-      <updated>1690522218021</updated>
-    </task>
-    <option name="localTasksCounter" value="30" />
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -350,13 +226,8 @@
     <MESSAGE value="update pom.xml" />
     <MESSAGE value="remove wrong file" />
     <MESSAGE value="update workspace.xml" />
-    <MESSAGE value="added app service template" />
-    <MESSAGE value="remove app service template" />
     <MESSAGE value="remove deploy file" />
-    <MESSAGE value="update" />
-    <MESSAGE value="update deployment file" />
-    <MESSAGE value="added template.json and guide.md" />
-    <MESSAGE value="update guide.md" />
-    <option name="LAST_COMMIT_MESSAGE" value="update guide.md" />
+    <MESSAGE value="reset master branch" />
+    <option name="LAST_COMMIT_MESSAGE" value="reset master branch" />
   </component>
 </project>

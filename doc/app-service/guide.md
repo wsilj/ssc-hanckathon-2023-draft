@@ -14,7 +14,7 @@
 >> branch: Release <br/>
 >> workflow option: Add a workflow <br/>
 >> sign email: 15967181537@126.com <br/>
->> sign password: majinwen123 <br/>
+>> sign password: jiejiyongren35K <br/>
 
 ### 5. refresh the app service overview page, then click ***Default domain***
 

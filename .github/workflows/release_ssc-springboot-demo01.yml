@@ -7,6 +7,9 @@ on:
   push:
     branches:
       - Release
+  pull_request:
+    branches:
+      - Release
   workflow_dispatch:
 
 jobs:

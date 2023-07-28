@@ -9,10 +9,12 @@
 ##### 4.2 disconnect the current deployment connection
 ##### 4.3 create a new github actions as below parameters
 
->> git url: https://github.com/wsilj <br>
->> repository: ssc-hanckathon-2023-draft <br>
->> sign email: 15967181537@126.com <br>
->> sign password: majinwen123 <br>
+>> git url: https://github.com/wsilj <br/>
+>> repository: ssc-hanckathon-2023-draft <br/>
+>> branch: Release <br/>
+>> workflow option: Add a workflow <br/>
+>> sign email: 15967181537@126.com <br/>
+>> sign password: majinwen123 <br/>
 
 ### 5. refresh the app service overview page, then click ***Default domain***
 

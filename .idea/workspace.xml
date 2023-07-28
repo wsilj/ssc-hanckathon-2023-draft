@@ -123,7 +123,7 @@
       <workItem from="1690440313151" duration="1345000" />
       <workItem from="1690442269967" duration="6193000" />
       <workItem from="1690450215995" duration="235000" />
-      <workItem from="1690509450538" duration="7001000" />
+      <workItem from="1690509450538" duration="7312000" />
     </task>
     <task id="LOCAL-00001" summary="change directory structure">
       <created>1690437857858</created>
@@ -314,7 +314,14 @@
       <option name="project" value="LOCAL" />
       <updated>1690521710887</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="added template.json and guide.md">
+      <created>1690522085615</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1690522085615</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

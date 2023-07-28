@@ -9,7 +9,7 @@
 ##### 4.2 disconnect the current deployment connection
 ##### 4.3 create a new github actions as below parameters
 
->> git url: https://github.com/wsilj <br/>
+>> github url: https://github.com/wsilj <br/>
 >> repository: ssc-hanckathon-2023-draft <br/>
 >> branch: Release <br/>
 >> workflow option: Add a workflow <br/>
